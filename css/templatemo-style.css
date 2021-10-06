@@ -457,3 +457,29 @@ p {
       width: 100%;
     }
 }
+
+.cybage-img {
+    background-image: url(../img/cybage_logo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+}
+
+.selenite-img {
+    background-image: url(../img/selenite_logo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.pratiti-img {
+    background-image: url(../img/pratiti_logo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+}
+
+.designation {
+    position: absolute;
+    color: black;
+    z-index: 99;
+}
